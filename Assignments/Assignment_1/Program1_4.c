@@ -5,7 +5,7 @@
 //  Input           :   Integer 
 //  Output          :   Boolean
 //  Description     :   check if a number is divisible by 5
-//  Date            :   18/11/2026
+//  Date            :   18/11girtg/2026
 //  Author          :   Pranav Sudhakar Ahirrao
 //
 ///////////////////////////////////////////////////
